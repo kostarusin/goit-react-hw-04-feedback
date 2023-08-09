@@ -1,0 +1,11 @@
+.buttonList {
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  padding: 0;
+}
+
+.button {
+  width: 116px;
+  text-transform: capitalize;
+}
